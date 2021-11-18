@@ -1,0 +1,5 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Client\bin\Debug\net5.0\wwwroot\" />
+  <ContentRoot BasePath="/" Path="D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Client\obj\Debug\net5.0\scopedcss\bundle\" />
+  <ContentRoot BasePath="/" Path="D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Client\wwwroot\" />
+</StaticWebAssets>
